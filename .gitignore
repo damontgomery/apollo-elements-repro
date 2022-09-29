@@ -6,3 +6,5 @@
 !declaration.d.ts
 
 build
+
+node_modules

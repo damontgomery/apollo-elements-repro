@@ -16,9 +16,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@apollo-elements/components": "^1.0.1",
-    "@apollo-elements/lit-apollo": "^3.0.1",
-    "@apollo/client": "^3.2.1",
+    "@apollo-elements/components": "^3",
+    "@apollo-elements/lit-apollo": "^5",
+    "@apollo/client": "^3",
     "@power-elements/json-viewer": "^2.1.1",
     "graphql": "^15.3.0"
   },
